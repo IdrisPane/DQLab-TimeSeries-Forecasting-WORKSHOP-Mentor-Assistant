@@ -1,7 +1,7 @@
 # DQLab-TimeSeries-Forecasting-WORKSHOP-Mentor-Assistant
 
 ## Project Introduction
-Machine learning for time series and forecasting in R programming language
+Machine learning for time series and forecasting in R programming language using RStudio.
 
 ## Project targets
 - EDA with time series data
@@ -9,7 +9,7 @@ Machine learning for time series and forecasting in R programming language
 - Implementing machine learning model for forecasting such as ARIMA, SMA, ETS, etc on various dataset
 
 ## Role in this project
-Mentor Assistant
+Mentor Assistant.
 
 ## Usaed programming language
 R programming Language (RStudio) : 
