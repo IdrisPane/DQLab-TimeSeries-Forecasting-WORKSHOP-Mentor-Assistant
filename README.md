@@ -9,7 +9,7 @@ Machine learning for time series and forecasting in R programming language using
 - Implementing machine learning model for forecasting such as ARIMA, SMA, ETS, etc on various dataset
 
 ## Role in this project
-Mentor Assistant.
+Mentor Assistant - Machine Learning / Data Science
 
 ## Usaed programming language
 R programming Language (RStudio) : 
